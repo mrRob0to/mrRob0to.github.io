@@ -24,15 +24,18 @@ url: "https://jrrob101.github.io/" # the base hostname & protocol for your site,
 twitter_username: jrrob101
 github_username:  jrrob101
 
+
+header_pages:
+  - about.md
+  - links.md
+
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
 
-header_pages:
-  - about.md
-  - portfolio.md
+
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
