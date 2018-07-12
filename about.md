@@ -8,7 +8,7 @@ permalink: /about/
 # Robert Antenorcruz Jr
 
 
-![28A002A]({{ "/files/28A002A.jpg" | absolute_url }}) 
+![28A002A]({{ "/files/28A008A.jpg" | absolute_url }}) 
 ![14514005]({{ "/files/14514005.jpg" | absolute_url }}) 
 
 Computer Science<br/>
