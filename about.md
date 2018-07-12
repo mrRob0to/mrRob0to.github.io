@@ -7,9 +7,9 @@ permalink: /about/
 
 Robert Antenorcruz Jr
 
-Computer Science<br>
-Network Security<br>
-Satellite Communications<br>
+Computer Science<br/>
+Network Security<br/>
+Satellite Communications<br/>
 
 
 
