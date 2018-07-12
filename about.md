@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-### Robert Antenorcruz Jr
+# Robert Antenorcruz Jr
 
 Computer Science<br/>
 Network Security<br/>
