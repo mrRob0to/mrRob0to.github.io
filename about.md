@@ -8,9 +8,7 @@ permalink: /about/
 Robert Antenorcruz Jr
 
 Computer Science
-
 Network Security
-
 Satellite Communications
 
 
