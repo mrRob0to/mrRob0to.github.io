@@ -8,8 +8,7 @@ permalink: /about/
 # Robert Antenorcruz Jr
 
 
-![My helpful screenshot]({{ "/files/28A002A.jpg" | absolute_url }})
-![My helpful screenshot]({{ "/files/14514005.jpg" | absolute_url }})
+![My helpful screenshot]({{ "/files/28A002A.jpg" | absolute_url }}) ![My helpful screenshot]({{ "/files/14514005.jpg" | absolute_url }})
 
 
 
