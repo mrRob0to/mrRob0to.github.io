@@ -5,12 +5,12 @@ permalink: /links/
 ---
 
 # Data Structures & Algorithms
-[Visual Algorithms](https://visualgo.net/en)
+[Visual Algorithms](https://visualgo.net/en)<br/>
 [Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
 
 
 # Programming
-[Big-O Cheat Sheet](http://bigocheatsheet.com/)
+[Big-O Cheat Sheet](http://bigocheatsheet.com/)<br/>
 [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
 
 
@@ -19,5 +19,5 @@ permalink: /links/
 
 
 # Extra 
-[List of Data Visualization Sites](https://www.reddit.com/r/dataisbeautiful/comments/435g7b/i_love_live_data_visualizations_heres_every_one/)
+[List of Data Visualization Sites](https://www.reddit.com/r/dataisbeautiful/comments/435g7b/i_love_live_data_visualizations_heres_every_one/)<br/>
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
