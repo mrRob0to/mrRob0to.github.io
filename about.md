@@ -8,7 +8,7 @@ permalink: /about/
 # Robert Antenorcruz Jr
 
 
-![28A002A]({{ "/files/28A002A.jpg" | absolute_url }}) 
+![028A28A0]({{ "/files/028A28A0.jpg" | absolute_url }})<br/> 
 Computer Science<br/>
 Satellite Communications<br/>
 Network Security<br/>
