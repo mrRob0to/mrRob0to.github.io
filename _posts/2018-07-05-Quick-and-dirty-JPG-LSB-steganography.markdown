@@ -11,7 +11,7 @@ Using the Least Significant Bit of a .jpg, we can manipulate the data to incorpo
 
 Programs: <br/>
 (1) HxD <br/>
-(2) MS Paint 3D<br/>
+(2) MS Paint<br/>
 <br/>
 
 
