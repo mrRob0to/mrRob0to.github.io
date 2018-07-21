@@ -42,7 +42,6 @@ Programs: <br/>
 
 ![LSB]({{ "/files/post1_04.png" | absolute_url }})<br/>
 
-
 ***The example used does show heavy manipulation, which is intened.**
 
 
