@@ -10,7 +10,7 @@ Hi, my name is Robert Antenorcruz and you found my blog. I currently write about
 
 <br/>
 Some of my passionate projects have been a photography blog SNAPHD<br/>
-[https://web.archive.org/web/20110611210203/http://snaphd.com/](https://web.archive.org/web/20110611210203/http://snaphd.com/)
+[http://bit.ly/2Imm5Vc](http://bit.ly/2Imm5Vc)
 
 Opening up a juice bar with one of my best friends from HS<br/>
 [https://8thwonderjuice.com](https://8thwonderjuice.com)
