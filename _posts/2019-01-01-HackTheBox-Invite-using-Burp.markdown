@@ -38,7 +38,7 @@ How I got the HackTheBox invite code using Burp suite.
 #### **(4)** Converted the inviteapi.min.js to something more readable using beautifier.io. Saw an interesting function *makeInviteCode()*
 
 ![beautifier.io]({{ "/files/post2_04.PNG" | absolute_url }})<br/>
-![beautifure.io]({{ "/files/post2_05_edited.png" | absolute_url }})<br/>
+![beautifure.io]({{ "/files/post2_05_edited.PNG" | absolute_url }})<br/>
 <br/>
 <br/>
 
