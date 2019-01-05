@@ -8,8 +8,8 @@ permalink: /about/
 
 ---
 
-* **Satellite Communications Operator @** United States Marine Corps Reserve
-* **IT Technician @** Goodwill Industries of Greater New York & New Jersey
-* **Computer Science Major @** CUNY Queens College
+* **Satellite Communications Operator**
+* **IT Endpoint Security** 
+* **Computer Science Major** 
 
 
