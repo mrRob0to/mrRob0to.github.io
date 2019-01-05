@@ -16,11 +16,6 @@ How I got the HackTheBox invite code using Burp suite.
 
 
 
-
-
-
-
-
 #### First I set my Firefox proxy to *127.0.0.1* for burp to interecept the traffic.
 
 ![FirefoxProxy]({{ "/files/post2_00.png" | absolute_url }})<br/> 
@@ -41,8 +36,8 @@ How I got the HackTheBox invite code using Burp suite.
 ![beautifure.io]({{ "/files/post2_05.png" | absolute_url }})<br/>
 
 #### Sent the inviteapi.min.js file to the repeater, changed GET to POST.
-
-![BurpRepeater]({{ "/files/post2_06_edited.png" | absolute_url }})<br/>
+</br>
+![BurpRepeater]({{ "/files/post2_06_edited.png"| absolute_url }})<br/>
 ![BurpRepeaterGET]({{ "/files/post2_07_edited.png" | absolute_url }})<br/>
 ![BurpRepeaterResponse]({{ "/files/post2_08.png" | absolute_url }})<br/>
 
