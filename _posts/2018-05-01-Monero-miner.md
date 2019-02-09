@@ -6,9 +6,6 @@ categories: Blog
 ---
 
 
-How I got the HackTheBox invite code using Burp suite.
-
-
 ***Hardware:*** <br/>
  **•** ASUS PRIME Z270-P LGA1151 DDR4 HDMI DVI M.2 USB 3.0 Z270 ATX Motherboard PRIME Z270-P  <br/>
  **•** P3 P4400 Kill A Watt Electricity Usage Monitor <br/>
@@ -23,7 +20,7 @@ How I got the HackTheBox invite code using Burp suite.
 <br/>
 
 ***Applications:*** <br/>
- **•** W10 Server - Evaluation   <br/>
+ **•** W10 Server - Evaluation <br/>
  **•** XMR Stack<br/>
  **•** HWMonitor<br/>
 <br/>
