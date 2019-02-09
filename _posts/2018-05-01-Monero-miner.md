@@ -23,20 +23,20 @@ How I got the HackTheBox invite code using Burp suite.
 <br/>
 
 ***Applications:*** <br/>
- **•** W10 Server 2019 - Evaluation   <br/>
+ **•** W10 Server - Evaluation   <br/>
  **•** XMR Stack<br/>
  **•** HWMonitor<br/>
 <br/>
 
 
 #### Why Monero?
-https://bitcoinmagazine.com/articles/battle-privacycoins-why-monero-hard-beat-and-hard-scale/
+[https://bitcoinmagazine.com/articles/battle-privacycoins-why-monero-hard-beat-and-hard-scale/](https://bitcoinmagazine.com/articles/battle-privacycoins-why-monero-hard-beat-and-hard-scale/)
 
 TLDR: Privacy <br/>
 
-![Rig]({{ "/files/post3_00.PNG" | absolute_url }})<br/> 
-![Parts]({{ "/files/post3_01.PNG" | absolute_url }})<br/> 
-![DarkRig]({{ "/files/post3_02.PNG" | absolute_url }})<br/> 
+![Rig]({{ "/files/post3_00.png" | absolute_url }})<br/> 
+![Parts]({{ "/files/post3_01.png" | absolute_url }})<br/> 
+![DarkRig]({{ "/files/post3_02.png" | absolute_url }})<br/> 
 <br/>
 <br/>
 
