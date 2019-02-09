@@ -12,6 +12,7 @@ permalink: /links/
 # Programming
 [Big-O Cheat Sheet](http://bigocheatsheet.com/)<br/>
 [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)
+[Floating Point](http://fabiensanglard.net/floating_point_visually_explained/)
 
 
 # Networking
@@ -21,3 +22,19 @@ permalink: /links/
 # Extra 
 [List of Data Visualization Sites](https://www.reddit.com/r/dataisbeautiful/comments/435g7b/i_love_live_data_visualizations_heres_every_one/)<br/>
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
+
+# Infosec
+[OSINT Framework](https://osintframework.com/)<br/>
+[Exploit Database](https://www.exploit-db.com/)<br/>
+[Salt & Hashing](https://crackstation.net/hashing-security.htm)<br/>
+[SHODAN](https://developer.shodan.io/)<br/>
+[Footprinting & Recon](https://dnsdumpster.com/footprinting-reconnaissance/)<br/>
+[Root Servers](http://www.root-servers.org/)<br/>
+
+
+
+
+
+
+
+
