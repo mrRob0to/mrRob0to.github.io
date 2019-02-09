@@ -9,7 +9,7 @@ permalink: /about/
 ---
 
 * **Satellite Communications Operator**
-* **IT Endpoint Security** 
+* **IT Endpoint Security Technician** 
 * **Computer Science Major** 
 
 
