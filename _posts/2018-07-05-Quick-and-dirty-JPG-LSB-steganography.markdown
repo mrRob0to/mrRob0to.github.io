@@ -9,9 +9,9 @@ categories: Quick and Dirty
 Using the Least Significant Bit of a .jpg, we can manipulate the data to incorporate our own binary message.
 
 
-Programs: <br/>
-(1) HxD <br/>
-(2) MS Paint<br/>
+***Programs:*** <br/>
+**•** HxD <br/>
+**•** MS Paint<br/>
 <br/>
 
 
@@ -21,11 +21,11 @@ Programs: <br/>
 
 
 
-#### .jpg HEX Header value starts with FFD8FF
+#### **(1)** .jpg HEX Header value starts with FFD8FF
 
 ![jpgHeader]({{ "/files/post1_01.png" | absolute_url }})<br/> 
 
-#### .jpg HEX Footer value ends with FFD9
+#### **(2)** .jpg HEX Footer value ends with FFD9
 
 ![jpgFooter]({{ "/files/post1_02.png" | absolute_url }})<br/> 
 
@@ -34,11 +34,11 @@ Programs: <br/>
 ![Original]({{ "/files/post1_0060_01.png" | absolute_url }})
 ![MSPaintEdit]({{ "/files/post1_0060_02.png" | absolute_url }})<br/>  
 
-#### Opening up the .jpg with the edited black bar, we can easily pinpoint the "area" in HxD.
+#### **(3)** Opening up the .jpg with the edited black bar, we can easily pinpoint the "area" in HxD.
 
 ![Area]({{ "/files/post1_03.png" | absolute_url }})<br/>
 
-#### We then manipulate the LEAST SIGNIFICANT BIT as, no pun intended, will cause the the LEAST manipulation to the image.
+#### **(4)** We then manipulate the LEAST SIGNIFICANT BIT as, no pun intended, will cause the the LEAST manipulation to the image.
 
 ![LSB]({{ "/files/post1_04.png" | absolute_url }})<br/>
 

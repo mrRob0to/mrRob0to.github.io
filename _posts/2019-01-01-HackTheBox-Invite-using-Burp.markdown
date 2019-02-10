@@ -8,6 +8,8 @@ categories: Tutorials
 
 How I got the HackTheBox invite code using Burp suite.
 
+*There are much easier ways to aquire the invite code, this tutorial is by using Burp*
+
 
 ***Programs:*** <br/>
  **•** Burp suite <br/>
