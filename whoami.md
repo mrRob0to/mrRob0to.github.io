@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: whoami
+permalink: /whoami/
 ---
 
 ![me]({{ "/files/me.png" | absolute_url }})<br/>

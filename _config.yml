@@ -32,7 +32,7 @@ plugins:
   - jekyll-feed
 
 header_pages:
-  - about.md
+  - whoami.md
   - links.md
 
 

@@ -24,13 +24,16 @@ permalink: /links/
 [Paul's Online Math Notes](http://tutorial.math.lamar.edu/)
 
 # Infosec
-[OSINT Framework](https://osintframework.com/)<br/>
-[Exploit Database](https://www.exploit-db.com/)<br/>
 [Salt & Hashing](https://crackstation.net/hashing-security.htm)<br/>
 [SHODAN](https://developer.shodan.io/)<br/>
 [Footprinting & Recon](https://dnsdumpster.com/footprinting-reconnaissance/)<br/>
 [Root Servers](http://www.root-servers.org/)<br/>
 
+
+# OSCP
+[OSINT Framework](https://osintframework.com/)<br/>
+[g0tmi1k PrivEsc](http://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)<br/>
+[Exploit Database](https://www.exploit-db.com/)<br/>
 
 
 
