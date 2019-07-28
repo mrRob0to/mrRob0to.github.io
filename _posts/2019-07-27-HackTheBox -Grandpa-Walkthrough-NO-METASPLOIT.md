@@ -31,7 +31,7 @@ categories: Tutorials
 
  This was a bit challenging box without metasploit, but luckily all the exploits worked out the box. Three of the most challenging aspects of the box were:
 >
-> - The low priv reverse shell exploit I was using was a oneshot deal. If I were to lose the shell, I would then have to restart the VM (Probably there was a way around this, but I did not throughly check...). 
+> - The low priv reverse shell exploit I was using was a oneshot deal. If I were to lose the shell, I would then have to restart the VM (Probably there was a way around this, but I did not throughly check...)
 > - This box has *MANY* vulnerabilities. 
 > - When running the privsec exploit I only had a limited window to execute commands. This was due to a flakey process the exploit was using, and I was not able to manually migrate to a different PID. (More info about Process Migration here...<https://jlajara.gitlab.io/posts/2018/11/26/process-migration.html>)
 
