@@ -29,7 +29,7 @@ categories: Tutorials
 ```
 
 
-> This was a bit challenging box without metasploit, but luckily all the exploits worked out the box. Three of the most challenging aspects of the box were:
+ This was a bit challenging box without metasploit, but luckily all the exploits worked out the box. Three of the most challenging aspects of the box were:
 >
 > - The low priv reverse shell exploit I was using was a oneshot deal. If I were to lose the shell, I would then have to restart the VM (Probably there was a way around this, but I did not throughly check...). 
 > - This box has *MANY* vulnerabilities. 
