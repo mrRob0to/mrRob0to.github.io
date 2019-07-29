@@ -12,7 +12,7 @@ permalink: /whoami/
 
 
 
-My name is Robert Antenorcruz. 
+My name is Rob Antenorcruz. 
 I am a **CompSci Major at CUNY Queens College** with an emphasis in Cyber-Security.
 I currently work in **IT at NYU Tandon School of Engineering** and am a former **SATCOM Operator** in the **United States Marine Corps Reserve**.
 
