@@ -4,6 +4,7 @@ title:  "HackTheBox Grandpa Walkthrough - NO METASPLOIT"
 date:   2019-07-27 00:00:00 -0500
 categories: Tutorials
 ---
+<meta name="twitter:image" content="https://mrrob0to.github.io//files/HTBGrandpa_01.png">
 
 ```
               ,-----.
