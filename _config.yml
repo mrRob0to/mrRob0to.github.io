@@ -24,6 +24,10 @@ url: "https://mrRob0to.github.io/" # the base hostname & protocol for your site,
 twitter_username: mrRob0to
 github_username:  mrRob0to
 
+#SEO
+twitter:
+  username: mrRob0to
+
 
 # Build settings
 markdown: kramdown
