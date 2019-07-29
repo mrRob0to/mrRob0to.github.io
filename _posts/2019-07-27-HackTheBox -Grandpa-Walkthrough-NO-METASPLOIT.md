@@ -5,18 +5,6 @@ date:   2019-07-27 00:00:00 -0500
 categories: Tutorials
 ---
 
-
-<meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:site" content="@mrRob0to">
-<meta name="twitter:title" content="HackTheBox Grandpa Walkthrough - NO METASPLOIT">
-<meta name="twitter:image" content="https://mrrob0to.github.io//files/HTBGrandpa_01.png">
-
-
-
-
-
-
-
 ```
               ,-----.
             W/,-. ,-.\W
