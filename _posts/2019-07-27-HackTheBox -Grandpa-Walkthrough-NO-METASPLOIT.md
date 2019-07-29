@@ -55,7 +55,7 @@ This was a bit challenging box without metasploit, but luckily all the exploits 
 **5)** Found this exploit that used Token Kidnapping for a privlage escalation to NT Authority\SYSTEM - <https://github.com/SecWiki/windows-kernel-exploits/tree/master/MS09-012>
 <br/>
 
-**6)** But first we need to upload the exploit. I configured a FTP server on my Attacking Machine using Anonymous Login. Then connected to my Kali Box from the Victim. Be sure to make sure you are transfering the file using BINARY mode, also flag -A for Anonymous login.
+**6)** But first we need to upload the exploit. I configured a FTP server on my Attacking Machine using Anonymous Login. Then connected to my Kali Box from the Victim. Be sure to make sure you are transferring the file using BINARY mode, also flag -A for Anonymous login.
 ![FTP]({{ "/files/HTBGrandpa_04.png" | absolute_url }})<br/>
 ![FTP2]({{ "/files/HTBGrandpa_05.png" | absolute_url }})<br/>
 <br/>
