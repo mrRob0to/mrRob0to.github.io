@@ -28,6 +28,12 @@ github_username:  mrRob0to
 twitter:
   username: mrRob0to
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      image: /files/me2.png
+
 
 # Build settings
 markdown: kramdown
