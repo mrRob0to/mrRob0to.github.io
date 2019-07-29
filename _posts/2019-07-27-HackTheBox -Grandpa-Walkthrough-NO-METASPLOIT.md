@@ -48,7 +48,7 @@ This was a bit challenging box without metasploit, but luckily all the exploits 
 ![whoami]({{ "/files/HTBGrandpa_02.png" | absolute_url }})<br/>
 <br/>
 
-**4)** Ran *windows-exploit-suggester.py*
+**4)** Ran *windows-exploit-suggester.py* :open_mouth:
 ![suggester]({{ "/files/HTBGrandpa_03.png" | absolute_url }})<br/>
 <br/>
 
