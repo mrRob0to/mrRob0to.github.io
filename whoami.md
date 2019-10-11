@@ -8,9 +8,6 @@ permalink: /whoami/
 
 ---
 
-<p style ="text-align: center;">IT by day. Pentesting by night.</p>
-
-
 
 * **CompSci Major @ CUNY Queens College**
 * **IT @ NYU Tandon School of Engineering** 
