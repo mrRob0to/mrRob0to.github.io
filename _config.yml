@@ -46,6 +46,8 @@ header_pages:
   - whoami.md
   - links.md
 
+#Google Analytics
+google_analytics: UA-54982866-5
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
