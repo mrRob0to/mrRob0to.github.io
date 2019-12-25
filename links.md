@@ -6,7 +6,7 @@ permalink: /links/
 
 # CompSci
 [Visual Algorithms](https://visualgo.net/en)<br/>
-[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
+[Data Structure Visualizations](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)<br/>
 [Big-O Cheat Sheet](http://bigocheatsheet.com/)<br/>
 [Beginner's Guide to Linkers](http://www.lurklurk.org/linkers/linkers.html)<br/>
 [Floating Point](http://fabiensanglard.net/floating_point_visually_explained/)

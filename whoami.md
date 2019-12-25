@@ -18,3 +18,16 @@ Most of my post are about pentesting and 1337 hax0r stuff, on which I am current
 Back in the day I worked on Super High Frequenecy satellite terminals, freelanced photography, and was co-owner to a Juice Bar.
 Now in my free time you can find me pentesting VMs on HackTheBox, and conducting independent security research on HackerOne and BugCrowd.
 
+
+
+Free Software Foundation Member<br/>
+
+
+Stanford Folding@home Donor<br/>
+https://stats.foldingathome.org/donor/264516<br/>
+
+Hacker's Manifesto<br/>
+http://phrack.org/issues/7/3.html<br/>
+
+HTB Member<br/>
+ <script src="https://www.hackthebox.eu/badge/93707"></script>
