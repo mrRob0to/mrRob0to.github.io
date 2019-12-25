@@ -19,6 +19,7 @@ permalink: /links/
 [g0tmi1k PrivEsc](http://blog.g0tmi1k.com/2011/08/basic-linux-privilege-escalation/)<br/>
 [Enumeration](http://www.0daysecurity.com/penetration-testing/enumeration.html)<br/>
 [Lower Level Network Protocols](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)<br/>
+[Hacker Manifesto](http://phrack.org/issues/7/3.html)<br/>
 
 
 

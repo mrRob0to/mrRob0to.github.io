@@ -20,14 +20,12 @@ Now in my free time you can find me pentesting VMs on HackTheBox, and conducting
 
 
 
-Free Software Foundation Member<br/>
+**Free Software Foundation Member**<br/>
 
 
-Stanford Folding@home Donor<br/>
-https://stats.foldingathome.org/donor/264516<br/>
+**Stanford Folding@home Donor**<br/>
+[https://stats.foldingathome.org/donor/264516](https://stats.foldingathome.org/donor/264516)<br/>
 
-Hacker's Manifesto<br/>
-http://phrack.org/issues/7/3.html<br/>
-
-HTB Member<br/>
+**HTB Member**<br/>
+[https://www.hackthebox.eu/profile/93707](https://www.hackthebox.eu/profile/93707)<br/>
  <script src="https://www.hackthebox.eu/badge/93707"></script>
