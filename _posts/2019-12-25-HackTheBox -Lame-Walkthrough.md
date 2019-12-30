@@ -48,30 +48,31 @@ GET IT ??? HERE LET ME DRAW A DIAGRAM :::
 This box was pretty easy, even easier with using Metasploit. 
 
 * Don't go down the rabbit hole with Port 21.
-* There are some other writeups that use smbclient -L 10.10.10.3 to find an exploit. Back in the day I was able to find the user.txt by connecting //10.10.10.3/tmp using anonymous login, but it seems it has been patched, as I receive an error -
+* There are some other writeups that use smbclient -L 10.10.10.3 to find an exploit. Back in the day I was able to find the user.txt by connecting //10.10.10.3/tmp using anonymous login, but it seems it has been patched, as now I am receiving an error:
 ```
 protocol negotiation failed: NT_STATUS_CONNECTION_DISCONNECTED
 ```
 
-</br>
-</br>
+<br/>
+<br/>
 
 
-**1)** Scanned and saw that port 21 you are able to log into the FTP service using anonymous login. Also port 445 Samba smbd service specifies a version which we will search for vulnerabilties. 
+**1)** Scanned and saw that on port 21 you are able to log into the FTP service using anonymous login. Also port 445 Samba smbd service specifies a version which we will search for vulnerabilties. 
 ![NMAP]({{ "/files/HTBLame_00.png" | absolute_url }})<br/> 
 <br/>
 
-**2)** Logging into FTP with the anonymous login (press enter for password), after looking through the directories I did not find anything special. - <https://github.com/g0rx/iis6-exploit-2017-CVE-2017-7269>
+**2)** Was able to FTP with the anonymous login (press enter for password), after looking through the directories I did not find anything special.
 ![FTP]({{ "/files/HTBLame_01.png" | absolute_url }})<br/>
 <br/>
 
-**3)** Found an exploit for Samba smbd version 3.0.20 - be sure to install the required pysmb depenedencies. 
+**3)** Found an exploit for Samba smbd version 3.0.20 - be sure to install the required pysmb depenedencies.
+<https://raw.githubusercontent.com/amriunix/CVE-2007-2447/master/usermap_script.py>
 ![whoami]({{ "/files/HTBLame_02.png" | absolute_url }})<br/>
 <br/>
 
 **4)** Ran the usermap_script.py exploit and was able to get a root reverse shell. Found the user.txt and root.txt. <br/>
 
-*Once connected with a reverse shell and if python is installed on the victim's machine, you can make the shell interactive with the following code -*
+*Once connected with a reverse shell and if python is installed on the victim's machine, you can make the shell interactive with the following command -*
 
 ```
 python -c 'import pty; pty.spawn("/bin/sh")'
