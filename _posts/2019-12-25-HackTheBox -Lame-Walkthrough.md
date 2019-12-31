@@ -57,7 +57,7 @@ protocol negotiation failed: NT_STATUS_CONNECTION_DISCONNECTED
 <br/>
 
 
-**1)** Scanned and saw that on port 21 you are able to log into the FTP service using anonymous login. Also port 445 Samba smbd service specifies a version which we will search for vulnerabilties. 
+**1)** Scanned and saw that on port 21 you are able to log into the FTP service using anonymous login. Also port 445 Samba smbd service specifies a version on which we will search for vulnerabilties. 
 ![NMAP]({{ "/files/HTBLame_00.png" | absolute_url }})<br/> 
 <br/>
 
@@ -72,7 +72,7 @@ protocol negotiation failed: NT_STATUS_CONNECTION_DISCONNECTED
 
 **4)** Ran the usermap_script.py exploit and was able to get a root reverse shell. Found the user.txt and root.txt. <br/>
 
-*Once connected with a reverse shell and if python is installed on the victim's machine, you can make the shell interactive with the following command -*
+*Once connected with a reverse shell and if python is installed on the victim's machine, you can make the shell interactive with the following command:*
 
 ```
 python -c 'import pty; pty.spawn("/bin/sh")'
