@@ -22,4 +22,3 @@ permalink: /whoami/
 
 **HTB Member**<br/>
 [https://www.hackthebox.eu/profile/93707](https://www.hackthebox.eu/profile/93707)<br/>
- <script src="https://www.hackthebox.eu/badge/93707"></script>
