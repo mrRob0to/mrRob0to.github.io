@@ -9,16 +9,16 @@ permalink: /whoami/
 ---
 
 
-* **CompSci Major @ CUNY Queens College**
+* **B.S. Computer Science @ CUNY Queens College**
 * **IT @ NYU Tandon School of Engineering** 
 * **SATCOM Operator @ United States Marine Corps Reserve**
 
 
-**Free Software Foundation Member**<br/>
+**Free Software Foundation Member**
 [https://my.fsf.org/](https://my.fsf.org/)<br/>
 
-**Stanford Folding@home Donor**<br/>
+**Stanford Folding@home Donor**
 [https://stats.foldingathome.org/donor/264516](https://stats.foldingathome.org/donor/264516)<br/>
 
-**HTB Member**<br/>
+**HTB Member**
 [https://www.hackthebox.eu/profile/93707](https://www.hackthebox.eu/profile/93707)<br/>
