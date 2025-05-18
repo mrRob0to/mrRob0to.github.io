@@ -21,13 +21,9 @@ description: >- # this means to ignore newlines until "baseurl:"
  PT7F62zWgCGUU1is
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mrRob0to.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: mrRob0to
 github_username:  mrRob0to
 
 #SEO
-twitter:
-  username: mrRob0to
-
 defaults:
   - scope:
       path: ""
@@ -41,10 +37,12 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 header_pages:
   - whoami.md
   - links.md
+  - posts.md
 
 #Google Analytics
 google_analytics: UA-54982866-5
