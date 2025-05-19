@@ -6,15 +6,18 @@ categories: Tutorials
 ---
 
 ### Disclaimer
+
 This guide does not explain the details of compiling a Linux kernel, nor does it guarantee that it will work on other systems.
 
-Do check out the Linux Foundation for more information: https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/
+Do check out the Linux Foundation for more information: <https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/> <br>
 
  ### Hardware
- MBP M2 - MacOS Sequoia
- Parallels running Ubuntu VM 24.04.02 6.8.0-59 generic
+
+ MBP M2 - MacOS Sequoia <br/>
+ Parallels running Ubuntu VM 24.04.02 6.8.0-59 generic <br/>
 
  ### Commands
+
 ```
  # Commands to compile linux kernel
  594  sudo apt-get install build-essential vim git cscope libncurses-dev libssl-dev bison flex
