@@ -13,8 +13,8 @@ Do check out the Linux Foundation for more information: [https://training.linuxf
 <br/>
 ### Hardware
 
-MBP M2 - MacOS Sequoia <br/>
-Parallels running Ubuntu VM 24.04.02 6.8.0-59 generic
+* MBP M2 - MacOS Sequoia <br/>
+* Parallels running Ubuntu VM 24.04.02 6.8.0-59 generic
 <br/>
 ### Commands
 
@@ -39,7 +39,9 @@ Parallels running Ubuntu VM 24.04.02 6.8.0-59 generic
 ```
 
 
-#### Notes 
+### Notes 
+<br/>
+
 ```
 ###################
 
