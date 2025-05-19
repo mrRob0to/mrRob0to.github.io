@@ -9,12 +9,13 @@ categories: Tutorials
 
 This guide does not explain the details of compiling a Linux kernel, nor does it guarantee that it will work on other systems.
 Do check out the Linux Foundation for more information: [https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/](https://training.linuxfoundation.org/training/a-beginners-guide-to-linux-kernel-development-lfd103/)
-<br/>
+
 ### Hardware
 
 * MBP M2 - MacOS Sequoia <br/>
 * Parallels running Ubuntu VM 24.04.02 6.8.0-59 generic
 <br/>
+
 ### Commands
 
 ```
