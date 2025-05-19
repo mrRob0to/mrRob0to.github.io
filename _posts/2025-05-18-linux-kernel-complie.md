@@ -37,8 +37,7 @@ Do check out the Linux Foundation for more information: [https://training.linuxf
 
 ```
 
-### Notes 
-<br/>
+### Notes
 
 ```
 ###################
